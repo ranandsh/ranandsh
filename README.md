@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Anand Shetty  (  @ranandsh  )
 - 👀 I’m interested in Data Science, Engineering & Analytics
-- 🌱 I’m currently a Grad Student on Data Science.
+- 🌱 I’m a Data Scientist.
 - 💞️ I’m looking forword to collaborate on Projects & Research  among people with similar intrests.
 - 📫 You Can Reach me at ronshettty@gmail.com
 
